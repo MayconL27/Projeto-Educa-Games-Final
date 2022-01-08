@@ -1,0 +1,113 @@
+*{  margin: 0; 
+	padding: 0; 
+	box-sizing: border-box; 
+	font-size: Arial, sans-serif; 
+	
+}
+
+body{
+	background: linear-gradient(to right, #3399ff 0%, #cc33ff 100%);
+}
+
+/*.post{ 
+	padding: 20px;
+	margin: 30px;
+}*/
+  
+
+h3 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+    font-size: 05vh;
+}
+
+main{
+
+	width: 50%;
+	margin: 100px;
+
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+	flex-direction: column;
+    justify-content: center;
+	
+	background-color: #ffffff;
+	padding: 10px;
+}
+
+
+
+
+main form button {
+    background: linear-gradient(to right, #3399ff 0%, #cc33ff 100%);
+    width: 40%;
+    height: 40px;
+    border: 0%;
+    outline: 0%;
+    border-radius: 5px;
+    margin: 8%;
+	align-items: center;
+	flex-direction: column;
+    font-size: 0.7cm;
+    cursor: pointer;
+    transition: 0.10s ease-in-out
+}
+
+main form .links-cantainer span {
+    font-size: 0.8cm;
+    font-weight: 600;
+}
+
+main form .links-cantainer aside {
+    margin-top: 5%;
+    width: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+main form .links-cantainer aside i {
+    font-size: 1cm;
+    background-color: #fff;
+    padding: 8px;
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    transition: 0.23s ease-in-out;
+    color: #fff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main form .links-cantainer aside .google {
+    color:  rgb(228, 8, 8)
+}
+
+main form .links-cantainer aside .google:hover {
+    background: rgb(228, 8, 8);
+    color: rgb(221, 216, 216);   
+}
+
+main form .links-cantainer aside .linkedin {
+    color:  rgb(8, 78, 228)
+}
+
+main form .links-cantainer aside .linkedin:hover {
+    background: rgb(8, 78, 228);
+    color: rgb(221, 216, 216);   
+}
+
+main form .links-cantainer aside .facebook {
+    color:  rgb(12, 48, 167);
+}
+
+main form .links-cantainer aside .facebook:hover {
+    background:  rgb(12, 48, 167);
+    color: rgb(221, 216, 216);   
+}
+
+
