@@ -7,6 +7,10 @@ projeto web com intuito de criar games de educação, ainda em desenvolvimento.
   <p><a href="https://github.com/Erivanderson"> 👨🏽‍💻 Erivanderson </a></p>
   <p><a href="https://github.com/MayconL27"> 👨🏽‍💻 Maycon </a></p>
   <p><a href="https://github.com/kleberkgns"> 👨‍💻 Kleber </a></p>
+  
+  
+  Link prototype Figma :
+https://www.figma.com/file/AMvG9IOc5pnD8wO22w7g6R/EducaGames
 
 <div style="display: inline_block" align='center'><br>
   
@@ -17,6 +21,8 @@ projeto web com intuito de criar games de educação, ainda em desenvolvimento.
   <img align="center" alt="HTML" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   
 </div>
+
+
 
 
 
